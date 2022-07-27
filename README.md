@@ -1,9 +1,9 @@
 <h1 align="center">Olá! sou Lidiane Mendes</h1> 
 
-- 🚀 Desenvolvedor ~~Jr~~ Iniciante -> ~~Front-End~~ 
+- 🚀 Desenvolvedora Jr Iniciante -> ~~Front-End~~ 
 - 📖 Estou aprendendo agora -> HTML| CSS | ~~JavaScript~~ | **TypeScript** | Angular | MySQL 
 
-<div>
+<div align="center">
       <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/></a>      
       <a href="https://www.w3.org/html/">
@@ -17,10 +17,7 @@
       <a href="https://angular.io/docs">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/></a>      
       <a href="https://dev.mysql.com/doc/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>     
-        
-<!-- <div align="center">
-     
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>         
 </div>
 
 <div align="center">
